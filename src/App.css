@@ -1,0 +1,8 @@
+.wrapper {
+  margin: 100px 0 150px;
+}
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
